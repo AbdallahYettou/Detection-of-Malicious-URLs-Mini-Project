@@ -1,0 +1,36 @@
+# Large model files
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Data files (optional - uncomment if desired)
+# *.csv
+# *.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large output/model directories
+models/
+output/
